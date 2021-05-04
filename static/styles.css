@@ -1,0 +1,26 @@
+.not-visible{
+    display: none;
+}
+.card{
+    border-radius: 20px !important;
+    overflow: hidden;
+    border: 0 !important;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+.card-header, .card-footer{
+    border: 0 !important;
+    background: transparent !important;
+}
+.btn-primary{
+    background-color: #1a73e8;
+border-radius: 8px;
+color: #fff;
+display: inline-block;
+font: 500 14px/16px "Roboto",sans-serif;
+letter-spacing: .15px;
+max-width: 255px;
+padding: 10px 50px;
+text-align: center;
+white-space: nowrap;
+width: 100%;
+}
